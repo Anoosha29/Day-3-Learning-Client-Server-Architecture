@@ -1,0 +1,32 @@
+DAY 3 - Client Server Architecture 
+
+1. What is Client-Server Model?
+ Client = User's browser (frontend), sends requests.
+ Server = Powerful computer (backend), responds with data.
+ Example: You (client) order pizza, restaurant (server) delivers it.
+
+2. Difference between Client and Server
+ Client (browser): Sends request, displays results.
+ Server: Processes request, sends files/data back.
+
+3. How HTTP Request & Response Cycle Works
+ Browser sends HTTP request.
+ Server receives, processes, and sends response.
+ Browser displays result (HTML, CSS, etc.)
+
+4. What Happens When You Visit a Website?
+ Type URL → DNS finds server → Sends request → Server responds → Website loads.
+
+5. Static vs Dynamic Websites
+ Static: Fixed content (HTML, CSS), doesn’t change unless edited manually.
+ Dynamic: Content changes automatically using server-side code + database (e.g. Facebook).
+
+6. Web Hosting and How It Works
+ Web hosting = A server (space) that stores your website files.
+ When users visit your site, hosting server serves them the website.
+ Types: Shared, VPS, Dedicated, Cloud Hosting.
+
+7. MCQs Revision
+(20 total questions were attempted. Scored 18/20 ✔️)
+
+End of Day 3 ✅
